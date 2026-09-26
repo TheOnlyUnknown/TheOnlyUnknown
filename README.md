@@ -1,4 +1,4 @@
-Gavy Jawanda
+Gurkeerat Jawanda AKA Gavy
 
 Machine Learning Engineer. I don't just use models - I understand why they work, when they break, and how to make them actually useful.
 
@@ -9,7 +9,7 @@ What I bring
 
 I've trained on the full stack of ML — from feature engineering and model architecture to deployment and monitoring. I think in tradeoffs: bias vs. variance, precision vs. recall, speed vs. accuracy. That means I ship solutions that hold up under real conditions, not just on clean datasets.
 
-Core tools: Python · PyTorch · scikit-learn · HuggingFace · Pandas · SQL · AWS · Docker
+Core tools: Python · PyTorch · scikit-learn · HuggingFace · Pandas · SQL · AWS · Docker · Tensorflow · PostgreSQL 
 
 
 What I'm building toward
